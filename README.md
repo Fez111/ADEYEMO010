@@ -40,7 +40,6 @@ I’ve worked on projects ranging from social impact to business performance, an
 ## 📊 Featured Projects
 
 ### 🧑‍💼 Nissan HR Analytics (Power BI)
-
 - Analyzed employee attrition data from 2019 to 2024 at Nissan Nigeria.
 - Identified high-risk departments with elevated resignation trends.
 - Explored impact of tenure, salary bands, and performance ratings on attrition.

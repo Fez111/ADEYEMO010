@@ -40,25 +40,59 @@ I’ve worked on projects ranging from social impact to business performance, an
 ## 📊 Featured Projects
 
 ### 🧑‍💼 Nissan HR Analytics (Power BI)
-Analyzed 5 years of attrition data to uncover patterns in resignation across departments, tenure bands, and performance levels.  
-Delivered actionable recommendations for improving employee retention post-COVID.
+
+- Analyzed employee attrition data from 2019 to 2024 at Nissan Nigeria.
+- Identified high-risk departments with elevated resignation trends.
+- Explored impact of tenure, salary bands, and performance ratings on attrition.
+- Visualized post-COVID shifts in resignation patterns and work behavior.
+- Delivered insights to support retention strategies and workforce planning.
+
+---
 
 ### 👟 Adidas Sales Performance (Power BI)
-Created a dynamic sales dashboard showing region-wise performance, top-selling products, and seasonal trends.  
-Enabled faster executive decisions through KPI cards, filters, and category breakdowns.
 
-### 📈 Year-on-Year Sales Performance (Power BI)
-Used advanced Excel techniques to compare revenue, profit margins, and product category sales across years.  
-Visualized key growth periods and downturns for stakeholder reporting.
+- Built a region-based sales performance dashboard with interactive visuals.
+- Tracked top-selling products, seasonal spikes, and underperforming items.
+- Used DAX measures to calculate year-over-year growth and contribution margins.
+- Enabled business users to filter by region, product category, and time frame.
+- Supported leadership in understanding revenue drivers across markets.
+
+---
+
+### 📈 Year-on-Year Sales Performance (Excel)
+
+- Used Excel formulas, PivotTables, and slicers to analyze sales trends.
+- Compared revenue, cost, and profit margins across multiple business years.
+- Highlighted key growth periods, sales dips, and seasonal trends.
+- Created KPI summaries and visuals for stakeholder reporting.
+- Enhanced visibility into product category performance over time.
+
+---
 
 ### 🧠 Healthcare Analytics (Power BI)
-Built an interactive dashboard for hospital analytics, tracking patient admission trends, doctor loads, and risk factors.  
-Helped highlight common conditions, peak hours, and underutilized departments.
+
+- Built an interactive hospital dashboard analyzing patient admissions and doctor workload.
+- Monitored trends in admission frequency, patient age groups, and risk factors.
+- Visualized department-wise activity and underutilized service lines.
+- Identified peak admission periods and key causes of readmission.
+- Helped healthcare stakeholders optimize resource allocation and shift planning.
+
+---
 
 ### 🚓 Indiana Crime Analyst (Power BI)
-Analyzed state crime data across counties and quarters.  
-Mapped out offense types, demographics, and trends to assist in resource allocation.
+
+- Analyzed quarterly crime data across counties in Indiana.
+- Explored demographic variables (age, sex, race) linked to offense types.
+- Created trend visuals for offense rates by county and month.
+- Highlighted areas with high violent or drug-related crime incidence.
+- Supported potential law enforcement strategies using data evidence.
+
+---
 
 ### 🚦 Nigeria Traffic Insight (Power BI)
-Explored traffic offenses across Nigerian states.  
-Created visuals to show law enforcement gaps, accident patterns, and violation trends.
+
+- Explored traffic violations and enforcement data across Nigerian states.
+- Identified regions with high offense rates vs. low enforcement records.
+- Visualized accident frequency, common offenses, and demographic patterns.
+- Created interactive maps and bar charts for quick policy reference.
+- Aimed to support road safety reforms through data visibility.

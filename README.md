@@ -10,6 +10,20 @@ To help organizations and initiatives turn scattered or messy data into simple, 
   I’m a detail-oriented Data Analyst with a Mass Communication background and a passion for transforming data into clarity.  
 I’ve worked on projects ranging from social impact to business performance, and I enjoy making dashboards and reports that drive decisions—not confusion.
   My journey began with Excel and storytelling, evolved into Power BI dashboards, and now includes SQL for deeper querying. I’ve volunteered with NGOs, worked on real datasets (not just Kaggle), and love solving problems through clean, insightful visuals.
+  ---
+
+## 🛠️ Skills
+
+### 🔧 Technical Skills
+- **Power BI**: (Interactive dashboards, DAX, data modeling)
+- **Excel**: (PivotTables, Charts, Power Query, Dashboards)
+- **SQL** : (SQL Server Management Studio)
+
+### 🧠 Soft Skills
+- Data Storytelling
+- Communication & Insight Presentation
+- Attention to Detail
+- Time Management
 
 
 

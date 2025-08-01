@@ -90,3 +90,19 @@ I’ve worked on projects ranging from social impact to business performance, an
 - Visualized accident frequency, common offenses, and demographic patterns.
 - Created interactive maps and bar charts for quick policy reference.
 - Aimed to support road safety reforms through data visibility.
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [iamtimade010@gmail.com](mailto:iamtimade010@gmail.com)  
+- 💼 LinkedIn: [Adeyemo Oluwatimileyin](https://linkedin.com/in/your-link-here)  
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+## 🌱 Open To
+- Remote Internships  
+- Volunteer Roles (NGOs, Startups, Public Sector)  
+- Collaborations on Data-for-Good Projects
+
+> Let's make data simple, impactful, and useful. Every chart, every insight, every dashboard — should solve a problem. 💡

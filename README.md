@@ -94,7 +94,7 @@ I’ve worked on projects ranging from social impact to business performance, an
 
 ## 📫 Let's Connect
 
-- 📧 Email: [iamtimade010@gmail.com](iamtimade010@gmail.com)  
+- 📧 Email: [iamtimade010@gmail.com](mailto:iamtimade010@gmail.com)  
 - 💼 LinkedIn: [www.linkedin.com/in/adeyemotimi](https://www.linkedin.com/in/adeyemotimi)  
 - 🌐 Portfolio: [datascienceportfol.io/adeyemo](http://datascienceportfol.io/adeyemo)
 

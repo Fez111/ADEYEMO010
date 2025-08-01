@@ -94,13 +94,13 @@ I’ve worked on projects ranging from social impact to business performance, an
 
 ## 📫 Let's Connect
 
-- 📧 Email: [iamtimade010@gmail.com](mailto:iamtimade010@gmail.com)  
-- 💼 LinkedIn: [Adeyemo Oluwatimileyin](https://linkedin.com/in/your-link-here)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📧 Email: [iamtimade010@gmail.com](iamtimade010@gmail.com)  
+- 💼 LinkedIn: [Adeyemo Oluwatimileyin](www.linkedin.com/in/adeyemotimi)  
+- 🌐 Portfolio: [your-portfolio-link.com](datascienceportfol.io/adeyemo)
 
 ---
 
-## 🌱 Open To
+## > 🌱 Open To
 - Remote Internships  
 - Volunteer Roles (NGOs, Startups, Public Sector)  
 - Collaborations on Data-for-Good Projects

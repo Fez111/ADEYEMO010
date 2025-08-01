@@ -45,19 +45,14 @@ I’ve worked on projects ranging from social impact to business performance, an
 - Explored impact of tenure, salary bands, and performance ratings on attrition.
 - Visualized post-COVID shifts in resignation patterns and work behavior.
 - Delivered insights to support retention strategies and workforce planning.
-
 ---
-
 ### 👟 Adidas Sales Performance (Power BI)
-
 - Built a region-based sales performance dashboard with interactive visuals.
 - Tracked top-selling products, seasonal spikes, and underperforming items.
 - Used DAX measures to calculate year-over-year growth and contribution margins.
 - Enabled business users to filter by region, product category, and time frame.
 - Supported leadership in understanding revenue drivers across markets.
-
 ---
-
 ### 📈 Year-on-Year Sales Performance (Excel)
 
 - Used Excel formulas, PivotTables, and slicers to analyze sales trends.
